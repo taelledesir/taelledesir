@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @taelledesir
-- 👀 I’m interested in becoming a full-time programmer.
+- 👀 I’m interested in becoming a programmer.
 - 🌱 I’m currently learning python, java, and c# at my college.
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me . @taelledesir
