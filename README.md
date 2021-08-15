@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @taelledesir
 - 👀 I’m interested in becoming a programmer.
 - 🌱 I’m currently learning python, java, and c# at my college.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m creating projects a long the way.
 - 📫 reach me . @taelledesir
 
 <!---
