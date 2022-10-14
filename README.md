@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @taelledesir
+- 👋 Hi, I’m Bee desir
 - 👀 I’m interested in becoming a programmer.
 - 🌱 I’m currently learning python, java, and c# at my college.
 - 💞️ I’m creating projects a long the way.
